@@ -6,10 +6,15 @@
    Hello
    -source and header files
 
+#
 [myid@localhost test]$ cmake CMakeLists.txt
+#
 [myid@localhost test]$ make
+#
 [myid@localhost test]$ cd Demo/
+#
 [myid@localhost Demo]$ ./helloDemo
+#
 안녕하세요?
 
 # 2.Source
