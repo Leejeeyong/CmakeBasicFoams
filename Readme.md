@@ -8,7 +8,7 @@
 #
    -source and header files
 
-#
+##terminal process
 [myid@localhost test]$ cmake CMakeLists.txt
 #
 [myid@localhost test]$ make
