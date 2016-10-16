@@ -18,14 +18,14 @@
   build
    -build target
 
-#List the tags
+##List the tags
 $ cd /SOMEPATH/
 $ git clone https://github.com/delcypher/cmake-tutorial source
 $ cd source
 $ git tag -l
-#pick the stage of the project you're interested in
+##pick the stage of the project you're interested in
 $ git checkout <tagname>
-#Now let's build. We'll do an out of source build of course!
+##Now let's build. We'll do an out of source build of course!
 $ cd /SOMEPATH/
 $ mkdir build
 $ cd build
