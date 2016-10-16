@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/helloDemo.dir/demo.c.o  -o helloDemo  -L/home/leejy/CmakeR/1/Hello -rdynamic ../Hello/libHello.a -Wl,-rpath,/home/leejy/CmakeR/1/Hello 
